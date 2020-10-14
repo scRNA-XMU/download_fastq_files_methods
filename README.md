@@ -1,5 +1,4 @@
-# download_fastq_files_methods
-two methods for downloading fastq files from GEO or ENA
+
 ### **两个下载fastq文件的方法**
 
 #### 方法1：用 sra-toolkit/2.9.2 模块中的 prefetch 工具
